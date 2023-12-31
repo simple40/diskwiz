@@ -10,16 +10,20 @@ diskwiz is a command-line disk space analyzer tool that helps you understand the
   
 - **Color-Coded Output:** Visually appealing and informative output. The colours shows the percentage of space taken by the file in that directory.
 
+- **File and Subdirectory Separation:** Results are intelligently separated, presenting a clear distinction between files and subdirectories for a well-organized overview.
+
+
+![diskwiz_res](https://github.com/simple40/diskwiz/assets/99835388/d53e7e1f-5e84-4dfb-856e-7e9f8fb0d39e)
 
  ## Installation
   
   ### Prerequisites:
   
-  *Visual C++ Redistributable Package:* Ensure you have the appropriate version installed for your system.DiskWiz requires the Visual C++ Redistributable for Visual Studio 2015-2022. Download and install it from [here](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
+  *Visual C++ Redistributable Package:* Ensure you have the appropriate version installed for your system.diskwiz requires the Visual C++ Redistributable for Visual Studio 2015-2022. Download and install it from [here](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
   
   ### Steps:
   
-- **Download the latest release:** Visit the [Releases page]() and download the diskwiz.exe file for your operating system.
+- **Download the latest release:** Visit the [Releases page](https://github.com/simple40/diskwiz/releases) and download the diskwiz.exe file for your operating system.
   
 <!-- - **Extract the contents:** Right-click the downloaded file and choose "Extract All" or use a suitable archive tool.
 - **Choose an installation location:**
@@ -105,7 +109,7 @@ diskwiz {COMMAND} {FLAGS}
   
  ## Download
 
-  Downloads are available from the [releases page]().
+  Downloads are available from the [releases page](https://github.com/simple40/diskwiz/releases).
 
 ## Licensing
 
